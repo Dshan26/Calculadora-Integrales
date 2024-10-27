@@ -1,0 +1,28 @@
+.container {
+  max-width: 700px;
+  margin-top: 50px;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+}
+
+.form-control, .form-check-label {
+  margin-top: 10px;
+}
+
+button {
+  width: 100%;
+}
+
+.alert {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+
+canvas {
+  margin-top: 20px;
+  width: 100%;
+  height: 400px;
+}
